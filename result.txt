@@ -1,5 +1,0 @@
-﻿kết quả nhận dạng:(số khuôn mặt nhận dạng đúng) / (số khuôn mặt nhận dạng được) 
-hình 1: 4/7
-hình 2: 0/1 
-hình 3: 6/7 
-hình 4: 0/3
